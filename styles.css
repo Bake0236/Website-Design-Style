@@ -1,0 +1,81 @@
+body {
+    display: block;
+    background-color: lightblue;
+  }
+  h1 {
+    display: block;
+    text-align: left;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+  }
+  div {
+    display: block;
+  }
+  .container{
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 10px auto;
+  }
+  h2 {
+    display: block;
+    text-align: left;
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 500;
+    font-size: 26px;
+  }
+  p { 
+    font-weight: 400;
+    font-size: 14px;
+    font-family: "Mali", sans-serif;
+  }
+  .color-container {
+    width: 100%;
+  }
+  .color-panel {
+    display: inline-block;
+    text-align: center;
+    margin: 20px auto;
+    width: 32%; 
+  }
+  .yellow {
+    background-color: #ffed00;
+    color: white;
+  }
+  .red {
+    background-color: #bc0024;
+    color: white;
+  }
+  .green {
+    background-color: #008000;
+    color: white;
+  }
+  .black { 
+    background-color: #101010;
+    color: white;
+  }
+  .font-panel {
+    display: inline-block;
+    width: 45%
+  }
+  .font-lable{ 
+    text-decoration: underline;
+  }
+  .roboto {
+    font-family: "Roboto", sans-serif; 
+  }
+  .regular{
+    font-style: normal;
+  }
+  .bold{ 
+    font-weight: 700;
+  }
+  .italic {
+    font-style: italic;
+  }
+  .titillium-web {
+    font-family: "Titillium Web", sans-serif;
+  }
+  .mali {
+    font-family: "Mali", sans-serif; 
+  }
